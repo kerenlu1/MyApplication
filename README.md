@@ -1,2 +1,2 @@
-# MyApplication_Ex_1
-Android development workshop - ex_1
+# MyApplication
+Android development workshop
